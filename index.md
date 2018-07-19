@@ -1,15 +1,18 @@
-## Welcome to GitHub Pages
+### Dear RealSugarCane
+考虑到我们会有一段漫长的时间不会见面，我实在很想亲手写一些东西，但由于现今我已然是家徒四壁，以致找不到一张符合我品味的信纸，再加上我书写实在缺乏美感，只好通过这种方式回信。我个人在生活上大概还算是个积极的人，但如果思绪诉诸笔端却都是消极的情绪。我坚信你一定能够理解我，假如不能理解也请必须使自己强行理解哦。
 
-You can use the [editor on GitHub](https://github.com/Allen-Edelfelt/Allen-Edelfelt.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+你曾经在信里写到：“网络一线牵，相逢就是缘”，但对于我而言，相信一个在网络上结识的人实在不是一件容易的事。正如我昨天跟你说的，我一直十分多疑，也有那些性格上的缺陷。当我们在微信上初次聊天的时候，说句实话，我一直充满着怀疑的情绪，如果一个人能让这种情绪快速消逝，那么我想，这个人一定是有突出的交际能力和人格魅力的，很幸运，你就是那个有杰出魅力的人。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+我已然高三毕业了，我的高中几乎没有什么建树。我很羡慕那些能够真正做到全面发展，所谓学习与兴趣两不误的人，我天资极差，也不怎么知道努力，成绩不怎么样，也没有专精的爱好，昨天和你聊天的过程中也感到，或许我已经脱离时代的潮流了。而你在文学、心理学上的造诣却令我吃惊，我一直没有说的是，我真的非常喜欢你的文字，那些细腻的描写和巧妙的隐喻，是我这种一辈子只能写点通俗文章自娱自乐的人难以企及的，你的那篇小说，或许是属于你和他人的故事，理应和我无关，但说句实话，我非常喜欢。
 
-### Markdown
+我知道你的暑假十分充实，但对我而言，我的暑假却是非常无聊的，之前还约着想打fortnite结果现在还没玩过，总之如果你有时间了，请务必告诉我哦。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+我也知道我们的爱好似乎有许多不同的地方，至于你推荐给我的书、剧、歌之类的，我至少也会去加以了解，你也可以多给我普及这些这些比较冷门的东西，我很乐意了解的。
 
-```markdown
-Syntax highlighted code block
+抱歉，我曾经一直在和你强调我语文功底不好，高考也是被语文疯狂连累，即使也有很多话想说，一时之间却无法组织出哪怕一点语言，先写这么多挂在网站上，这个网站或许会时常更新的。
+
+总之能认识你实在是再幸运不过的事情：）
+
 
 # Header 1
 ## Header 2
