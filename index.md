@@ -1,4 +1,5 @@
-### Dear RealSugarCane
+## Dear RealSugarCane：
+
 考虑到我们会有一段漫长的时间不会见面，我实在很想亲手写一些东西，但由于现今我已然是家徒四壁，以致找不到一张符合我品味的信纸，再加上我书写实在缺乏美感，只好通过这种方式回信。我个人在生活上大概还算是个积极的人，但如果思绪诉诸笔端却都是消极的情绪。我坚信你一定能够理解我，假如不能理解也请必须使自己强行理解哦。
 
 你曾经在信里写到：“网络一线牵，相逢就是缘”，但对于我而言，相信一个在网络上结识的人实在不是一件容易的事。正如我昨天跟你说的，我一直十分多疑，也有那些性格上的缺陷。当我们在微信上初次聊天的时候，说句实话，我一直充满着怀疑的情绪，如果一个人能让这种情绪快速消逝，那么我想，这个人一定是有突出的交际能力和人格魅力的，很幸运，你就是那个有杰出魅力的人。
@@ -12,29 +13,8 @@
 抱歉，我曾经一直在和你强调我语文功底不好，高考也是被语文疯狂连累，即使也有很多话想说，一时之间却无法组织出哪怕一点语言，先写这么多挂在网站上，这个网站或许会时常更新的。
 
 总之能认识你实在是再幸运不过的事情：）
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![signature
+.jpg](https://s1.ax1x.com/2018/07/19/P1zbCt.jpg)
 
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Allen-Edelfelt/Allen-Edelfelt.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+2018.7.19
