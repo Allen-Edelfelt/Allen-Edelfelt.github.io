@@ -13,8 +13,7 @@
 抱歉，我曾经一直在和你强调我语文功底不好，高考也是被语文疯狂连累，即使也有很多话想说，一时之间却无法组织出哪怕一点语言，先写这么多挂在网站上，这个网站或许会时常更新的。
 
 总之能认识你实在是再幸运不过的事情：）
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![signature
-.jpg](https://s1.ax1x.com/2018/07/19/P1zbCt.jpg)
+
+唐君阳
 
 2018.7.19
